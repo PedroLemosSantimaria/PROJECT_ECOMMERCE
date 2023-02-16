@@ -1,0 +1,189 @@
+﻿@using Microsoft.AspNetCore.Http;
+@using Newtonsoft.Json;
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/site.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2? família=PT+Sans+Narrow&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header id="topo">
+        <a href="~/Home/Index" id="fonte-p">ATENÇÃO COM PREENCHIMENTO DO SEU ENDEREÇO, CONFIRME ANTES DE EFETUAR O PAGAMENTO</a>
+    </header>
+    <div id="container-topo">
+        <div id="divBusca">
+            <img id="img-input" src="~/img/510861_find_magnifying glass_search_zoom_icon.png" alt="Buscar..." />
+            <input type="text" id="txtBusca" />
+            <button id="btnBusca">
+                <p id="fonte-m-branca">Buscar</p>
+            </button>
+        </div>
+        <div id="logo-t">
+            <a href="~/Home/Index">
+                <img src="~/img/logo.jpg" alt="" style="width: 180px;">
+            </a>
+        </div>
+        <div id="container-carrinho">
+            <a href="" id="link-carrinho">
+                <div id="faixa-verde">
+                    <img src="~/img/808648_buy_cart_finance_market_shopping cart_icon.png" alt="" id="carrinho">
+                    CARRINHO
+                </div>
+            </a>
+            <div id="container-cadastro">
+                @if (Context.Session.GetString("user") == null)
+                {
+                    <a href="~/Usuario/Cadastro" id="fonte-p-black">CADASTRE-SE</a>
+                    <a style="color: black;">|</a>
+                    <a href="~/Usuario/Login" id="fonte-p-black">INICIAR SESSÃO</a>
+                }
+                else
+                {
+                    <a href="~/Usuario/Conta" id="fonte-p-black">MINHA CONTA</a>
+                    <a style="color: black;">|</a>
+                    <a href="~/Usuario/Sair" id="fonte-p-black">SAIR</a>
+                }
+
+            </div>
+        </div>
+        <br>
+    </div>
+    <div id="menu">
+       
+        @if (Context.Session.GetString("user") != null)
+        {
+
+
+            Projeto.Models.Usuario u = JsonConvert.DeserializeObject<Projeto.Models.Usuario>(
+
+                Context.Session.GetString("user").ToString());
+            if (u.TipoUsuario == "Cliente")
+            {
+
+
+                <div id="container-links">
+                    <a href="~/Home/Index" id="link">INÍCIO</a>
+                </div>
+                <div id="container-links">
+                    <a href="~/Produtos/Skate" id="link">SKATE</a>
+                </div>
+                <div id="container-links">
+                    <a href="~/Produtos/Moletom" id="link">MOLETOM</a>
+                </div>
+                <div id="container-links">
+                    <a href="~/Usuario/Contato" id="link">CONTATO</a>
+                </div>
+            }
+            else
+            {
+                <div id="container-links">
+                    <a href="~/Home/Index" id="link">INÍCIO</a>
+                </div>
+                <div id="container-links">
+                    <a href="~/Produtos/Skate" id="link">SKATE</a>
+                </div>
+                <div id="container-links">
+                    <a href="~/Produtos/Moletom" id="link">MOLETOM</a>
+                </div>
+                <div id="container-links">
+                    <a href="~/Produtos/CadastrarProduto" id="link">CADASTRAR PRODUTOS</a>
+                </div>
+                <div id="container-links">
+                    <a href="~/Produtos/Listar" id="link">LISTAR PRODUTOS</a>
+                </div>
+                <div id="container-links">
+                    <a href="~/Usuario/CadastroAdm" id="link">CADASTRAR ADM</a>
+                </div>
+            }
+
+        }
+        else
+        {
+            <div id="container-links">
+                <a href="~/Home/Index" id="link">INÍCIO</a>
+            </div>
+            <div id="container-links">
+                <a href="~/Produtos/Skate" id="link">SKATE</a>
+            </div>
+            <div id="container-links">
+                <a href="~/Produtos/Moletom" id="link">MOLETOM</a>
+            </div>
+            <div id="container-links">
+                <a href="~/Usuario/Contato" id="link">CONTATO</a>
+            </div>
+        }
+
+    </div>
+
+    @RenderBody()
+    <footer>
+        <div id="container-footer-p">
+            <p id="fonte-m-branca" style="font-weight: bold;">NAVEGAÇÃO</p>
+            <br>
+            <p id="fonte-m-branca">COMO COMPRAR</p>
+            <p id="fonte-m-branca">Perguntas Frequentes</p>
+            <p id="fonte-m-branca">Entrega</p>
+            <p id="fonte-m-branca">BLACK FRIDAY</p>
+        </div>
+        <div id="container-footer-m">
+            <p id="fonte-m-branca" style="font-weight: bold;">FORMAS DE PAGAMENTO</p>
+            <br>
+            <div id="img-pagamento">
+                <img id="espacado" src="~/img/Captura de tela 2022-05-03 152001.png" alt="">
+                <img id="espacado" src="~/img/Captura de tela 2022-05-03 152026.png" alt="">
+                <img id="espacado" src="~/img/Captura de tela 2022-05-03 152201.png" alt="">
+                <img id="espacado" src="~/img/Captura de tela 2022-05-03 152248.png" alt="">
+            </div>
+            <br>
+            <div id="img-pagamento">
+                <img id="espacado" src="~/img/Captura de tela 2022-05-03 152905.png" alt="">
+                <img id="espacado" src="~/img/Captura de tela 2022-05-03 152927.png" alt="">
+                <img id="espacado" src="~/img/Captura de tela 2022-05-03 153010.png" alt="">
+                <img id="espacado" src="~/img/Captura de tela 2022-05-03 153039.png" alt="">
+            </div>
+            <br>
+            <p id="fonte-m-branca" style="font-weight: bold;">FORMAS DE ENVIO</p>
+            <br>
+            <div id="img-pagamento">
+                <img id="espacado" src="~/img/Captura de tela 2022-05-03 153220.png" alt="">
+                <img id="espacado" src="~/img/Captura de tela 2022-05-03 153247.png" alt="">
+                <img id="espacado" src="~/img/Captura de tela 2022-05-03 153519.png" alt="">
+            </div>
+        </div>
+        <br>
+        <div id="container-footer-g">
+            <p id="fonte-m-branca" style="font-weight: bold;">CONTATO</p>
+            <br>
+            <div class="container-texto-com-img">
+                <img src="~/img/Captura de tela 2022-05-03 155136.png" alt="">
+                <p id="fonte-m-branca" style="padding-right: 190px;">19991867097</p>
+            </div>
+            <div class="container-texto-com-img">
+                <img src="~/img/Captura de tela 2022-05-03 155853.png" alt="" style="padding-top: 3px;">
+                <p id="fonte-m-branca" style="padding-right: 145px;">allskaterssz@gmail.com</p>
+            </div>
+            <div class="container-texto-com-img">
+                <img src="~/img/Captura de tela 2022-05-03 160257.png" alt="" style="padding-top: 4px;">
+                <p id="fonte-m-branca" style="padding-right: 180px;">cx postal, 11111</p>
+            </div>
+        </div>
+        <div id="container-footer-p">
+            <p id="fonte-m-branca" style="font-weight: bold;">REDES SOCIAIS</p>
+            <br>
+            <div id="img-pagamento">
+                <img id="espacado" src="~/img/Captura de tela 2022-05-03 160606.png" alt="">
+                <img id="espacado" src="~/img/Captura de tela 2022-05-03 160621.png" alt="">
+                <img id="espacado" src="~/img/Captura de tela 2022-05-03 160639.png" alt="">
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
+
+

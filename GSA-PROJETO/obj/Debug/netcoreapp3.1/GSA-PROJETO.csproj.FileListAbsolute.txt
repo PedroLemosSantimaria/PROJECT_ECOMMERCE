@@ -1,0 +1,1025 @@
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\appsettings.json
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.exe
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.deps.json
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.runtimeconfig.json
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.runtimeconfig.dev.json
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.pdb
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.Views.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.Views.pdb
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.csprojAssemblyReference.cache
+C:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.AssemblyInfoInputs.cache
+C:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.AssemblyInfo.cs
+C:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.csproj.CoreCompileInputs.cache
+C:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.MvcApplicationPartsAssemblyInfo.cache
+C:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.RazorAssemblyInfo.cache
+C:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.RazorAssemblyInfo.cs
+C:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\staticwebassets\GSA-PROJETO.StaticWebAssets.Manifest.cache
+C:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\staticwebassets\GSA-PROJETO.StaticWebAssets.xml
+C:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\scopedcss\bundle\GSA-PROJETO.styles.css
+C:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.TagHelpers.input.cache
+C:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.TagHelpers.output.cache
+C:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.RazorCoreGenerate.cache
+C:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.RazorTargetAssemblyInfo.cache
+C:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.RazorTargetAssemblyInfo.cs
+C:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.Views.pdb
+C:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.csproj.CopyComplete
+C:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.dll
+C:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.pdb
+C:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.genruntimeconfig.cache
+C:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastrar.cshtml.g.cs
+C:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\EntrarCliente.cshtml.g.cs
+C:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Listar.cshtml.g.cs
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.exe
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.deps.json
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.runtimeconfig.json
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.runtimeconfig.dev.json
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.pdb
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.Views.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.Views.pdb
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.csprojAssemblyReference.cache
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.AssemblyInfo.cs
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.RazorAssemblyInfo.cache
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.RazorAssemblyInfo.cs
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\staticwebassets\GSA-PROJETO.StaticWebAssets.Manifest.cache
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\staticwebassets\GSA-PROJETO.StaticWebAssets.xml
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\scopedcss\bundle\GSA-PROJETO.styles.css
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.TagHelpers.input.cache
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.TagHelpers.output.cache
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.RazorCoreGenerate.cache
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Listar.cshtml.g.cs
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastrar.cshtml.g.cs
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\EntrarCliente.cshtml.g.cs
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.RazorTargetAssemblyInfo.cache
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.RazorTargetAssemblyInfo.cs
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.Views.pdb
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.csproj.CopyComplete
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.pdb
+C:\Users\aluno\Documents\___PedroLemosTrabalho\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.genruntimeconfig.cache
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.exe
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.deps.json
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.runtimeconfig.json
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.runtimeconfig.dev.json
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.pdb
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.Views.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.Views.pdb
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.csprojAssemblyReference.cache
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.AssemblyInfo.cs
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.RazorAssemblyInfo.cache
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.RazorAssemblyInfo.cs
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\staticwebassets\GSA-PROJETO.StaticWebAssets.Manifest.cache
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\staticwebassets\GSA-PROJETO.StaticWebAssets.xml
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\scopedcss\bundle\GSA-PROJETO.styles.css
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.TagHelpers.input.cache
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.TagHelpers.output.cache
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.RazorCoreGenerate.cache
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Listar.cshtml.g.cs
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastrar.cshtml.g.cs
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\EntrarCliente.cshtml.g.cs
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.RazorTargetAssemblyInfo.cache
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.RazorTargetAssemblyInfo.cs
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.Views.pdb
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.csproj.CopyComplete
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.dll
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.pdb
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.genruntimeconfig.cache
+C:\Users\aluno\Documents\_PROJETO2T\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\CadastrarProduto.cshtml.g.cs
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\appsettings.Development.json
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\appsettings.json
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.exe
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.deps.json
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.runtimeconfig.json
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.runtimeconfig.dev.json
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.pdb
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.Views.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.Views.pdb
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\MySql.Data.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ZstdNet.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.csprojAssemblyReference.cache
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.AssemblyInfoInputs.cache
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.AssemblyInfo.cs
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.csproj.CoreCompileInputs.cache
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.MvcApplicationPartsAssemblyInfo.cache
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.RazorAssemblyInfo.cache
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.RazorAssemblyInfo.cs
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\staticwebassets\GSA-PROJETO.StaticWebAssets.Manifest.cache
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\staticwebassets\GSA-PROJETO.StaticWebAssets.xml
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\scopedcss\bundle\GSA-PROJETO.styles.css
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.TagHelpers.input.cache
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.TagHelpers.output.cache
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.RazorCoreGenerate.cache
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\CadastrarProduto.cshtml.g.cs
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Listar.cshtml.g.cs
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastrar.cshtml.g.cs
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\EntrarCliente.cshtml.g.cs
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.RazorTargetAssemblyInfo.cache
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.RazorTargetAssemblyInfo.cs
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.Views.pdb
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.csproj.CopyComplete
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.dll
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.pdb
+T:\2DSB\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.genruntimeconfig.cache
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.exe
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.deps.json
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.runtimeconfig.json
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.runtimeconfig.dev.json
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.pdb
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.Views.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.Views.pdb
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.csprojAssemblyReference.cache
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.AssemblyInfo.cs
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.RazorAssemblyInfo.cache
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.RazorAssemblyInfo.cs
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\staticwebassets\GSA-PROJETO.StaticWebAssets.Manifest.cache
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\staticwebassets\GSA-PROJETO.StaticWebAssets.xml
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\scopedcss\bundle\GSA-PROJETO.styles.css
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.TagHelpers.input.cache
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.TagHelpers.output.cache
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.RazorCoreGenerate.cache
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\CadastrarProduto.cshtml.g.cs
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Listar.cshtml.g.cs
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastrar.cshtml.g.cs
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\EntrarCliente.cshtml.g.cs
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.RazorTargetAssemblyInfo.cache
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.RazorTargetAssemblyInfo.cs
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.Views.pdb
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.csproj.CopyComplete
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.dll
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.pdb
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.genruntimeconfig.cache
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Alterar.cshtml.g.cs
+C:\Users\aluno\Documents\___PedroLemosTrabalho\projrtao\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\AlterarDados.cshtml.g.cs
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.exe
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.deps.json
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.runtimeconfig.json
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.runtimeconfig.dev.json
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.pdb
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.Views.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.Views.pdb
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.csprojAssemblyReference.cache
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.AssemblyInfo.cs
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.RazorAssemblyInfo.cache
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.RazorAssemblyInfo.cs
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\staticwebassets\GSA-PROJETO.StaticWebAssets.Manifest.cache
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\staticwebassets\GSA-PROJETO.StaticWebAssets.xml
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\scopedcss\bundle\GSA-PROJETO.styles.css
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.TagHelpers.input.cache
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.TagHelpers.output.cache
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.RazorCoreGenerate.cache
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Alterar.cshtml.g.cs
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Listar.cshtml.g.cs
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.RazorTargetAssemblyInfo.cache
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.RazorTargetAssemblyInfo.cs
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.Views.pdb
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.csproj.CopyComplete
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.dll
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.pdb
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.genruntimeconfig.cache
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Skate.cshtml.g.cs
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Moletom.cshtml.g.cs
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Contato.cshtml.g.cs
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Conta.cshtml.g.cs
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\aluno\Documents\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\CadastrarProduto.cshtml.g.cs
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.exe
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.deps.json
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.runtimeconfig.json
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.runtimeconfig.dev.json
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.pdb
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.Views.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.Views.pdb
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.csprojAssemblyReference.cache
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.AssemblyInfo.cs
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.RazorAssemblyInfo.cache
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.RazorAssemblyInfo.cs
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\staticwebassets\GSA-PROJETO.StaticWebAssets.Manifest.cache
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\staticwebassets\GSA-PROJETO.StaticWebAssets.xml
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\scopedcss\bundle\GSA-PROJETO.styles.css
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.TagHelpers.input.cache
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.TagHelpers.output.cache
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.RazorCoreGenerate.cache
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Alterar.cshtml.g.cs
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\CadastrarProduto.cshtml.g.cs
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Listar.cshtml.g.cs
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Moletom.cshtml.g.cs
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Skate.cshtml.g.cs
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Conta.cshtml.g.cs
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Contato.cshtml.g.cs
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.RazorTargetAssemblyInfo.cache
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.RazorTargetAssemblyInfo.cs
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.Views.pdb
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.csproj.CopyComplete
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.dll
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.pdb
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.genruntimeconfig.cache
+C:\Users\aluno\Documents\Pedro Lemos\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\CadastroAdm.cshtml.g.cs
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\appsettings.json
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.exe
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.StaticWebAssets.xml
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.deps.json
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.runtimeconfig.json
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.runtimeconfig.dev.json
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.pdb
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.Views.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\GSA-PROJETO.Views.pdb
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\MySql.Data.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ZstdNet.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GSA-PROJETO\GSA-PROJETO\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.csproj.AssemblyReference.cache
+E:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.GeneratedMSBuildEditorConfig.editorconfig
+E:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.AssemblyInfoInputs.cache
+E:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.AssemblyInfo.cs
+E:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.csproj.CoreCompileInputs.cache
+E:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.MvcApplicationPartsAssemblyInfo.cache
+E:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.RazorAssemblyInfo.cache
+E:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.RazorAssemblyInfo.cs
+E:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\staticwebassets\GSA-PROJETO.StaticWebAssets.Manifest.cache
+E:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.TagHelpers.input.cache
+E:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.TagHelpers.output.cache
+E:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.RazorCoreGenerate.cache
+E:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Alterar.cshtml.g.cs
+E:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\CadastrarProduto.cshtml.g.cs
+E:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Listar.cshtml.g.cs
+E:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Moletom.cshtml.g.cs
+E:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Skate.cshtml.g.cs
+E:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+E:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\CadastroAdm.cshtml.g.cs
+E:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Conta.cshtml.g.cs
+E:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Contato.cshtml.g.cs
+E:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+E:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.RazorTargetAssemblyInfo.cache
+E:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.RazorTargetAssemblyInfo.cs
+E:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.Views.pdb
+E:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.csproj.CopyComplete
+E:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.dll
+E:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.pdb
+E:\GSA-PROJETO\GSA-PROJETO\obj\Debug\netcoreapp3.1\GSA-PROJETO.genruntimeconfig.cache

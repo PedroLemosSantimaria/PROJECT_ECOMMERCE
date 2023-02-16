@@ -1,0 +1,99 @@
+﻿@model List<Projeto.Models.Produtos>
+<title>Skate - ALLSKATERS</title>
+<br />
+<br />
+<div class="container-full">
+    <div class="container-barra-filtro">
+        <select name="" id="">
+            <option value="roupas"> Pesquisar</option>
+            <option value="roupas">Preço: maior ao menor</option>
+            <option value="roupas">Preço:menor ao maior</option>
+            <option value="roupas">A - Z</option>
+            <option value="roupas">Z - A</option>
+            <option value="roupas">Mais antigo ao mais novo</option>
+            <option value="roupas">Mais novo ao mais antigos </option>
+
+        </select>
+    </div>
+    <button class="button-filtro-one">Buscar</button>
+
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <div class="container">
+    
+
+        <div class="container-store-one">
+            @foreach (Projeto.Models.Produtos p in Model)
+                    {
+                        string formato = "data:image/jpeg;base64," + Convert.ToBase64String(p.BytesArquivo);
+
+                        <div class="skate">
+                    <img src="@formato"
+                         alt="" style="width:210px; height:210px" >
+                    <h3 class="titulo-skate">@p.Nome</h3>
+                    <p class="descrição-skate">
+                        @p.Descricao
+                    </p>
+                    <button class="button-buy" >@p.Preco Comprar</button>
+                    <br> <br>
+                    <hr size="2" width="80%">
+                </div>
+            }
+
+                <hr width="80%">
+            </div>
+
+
+
+
+        <div class="container-store-options">
+
+            <p class="margin-options">Cor</p>
+            <br>
+            <label class="margin-options" for="">Preto</label>
+            <input class="margin-options" type="checkbox" name="sd">
+            <br><br>
+            <label class="margin-options" for="">Vermelho</label>
+            <input class="margin-options" type="checkbox" name="sd">
+            <br><br>
+            <label class="margin-options" for="">Laranja</label>
+            <input class="margin-options" type="checkbox" name="sd">
+            <br><br>
+            <label class="margin-options" for="">Amarelo</label>
+            <input class="margin-options" type="checkbox" name="sd"><br><br>
+            <hr size="2">
+            <p class="margin-options">Tamanho</p>
+            <br>
+            <label class="margin-options" for="">140mm</label>
+            <input class="margin-options" type="checkbox" name="sd">
+            <br><br>
+            <label class="margin-options" for="">139mm</label>
+            <input class="margin-options" type="checkbox" name="sd">
+            <br><br>
+            <label class="margin-options" for="">138mm</label>
+            <input class="margin-options" type="checkbox" name="sd">
+            <br><br>
+            <label class="margin-options" for="">142mm</label>
+            <input class="margin-options" type="checkbox" name="sd"><br><br>
+            <hr size="2">
+            <br><br>
+
+
+
+            <a class="margin-options" href="">Shape </a><br><br>
+            <a class="margin-options" href="">Shape Maple</a><br><br>
+            <a class="margin-options" href="">Shape Nacional</a><br><br>
+            <a class="margin-options" href="">Skate montado</a><br><br>
+
+            <button class="search">Buscar</button>
+
+
+        </div>
+
+
+    </div>
+
+</div>
